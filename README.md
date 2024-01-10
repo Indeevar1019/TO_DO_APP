@@ -16,3 +16,10 @@ Steps:
 4.Click on Run app
 
 
+Sample Output:
+1.img1
+2.img2
+3.img3
+4.img4
+
+
